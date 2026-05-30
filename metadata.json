@@ -1,0 +1,6 @@
+{
+  "name": "Bangladesh 64 District Free Fire Tournament",
+  "description": "Premium tournament organization platform with user profiles, referral systems, live matches, custom leaderboards, a merchandise shop, and admin controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
